@@ -1,0 +1,1 @@
+do if (a < 5) a=a+1; else a=0; while(a);
